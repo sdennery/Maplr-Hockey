@@ -2,7 +2,7 @@
 
 ## Installation de la base de données
 
-Après le build de l'application, la base de données sera installée et pourra être visualisé sou sle lien : http://localhost:8080/h2/login.jsp
+Après le build de l'application, la base de données sera installéeet pourra être visualisé sou sle lien : http://localhost:8080/h2/login.jsp. Des données seront également importées après le build de l'application.
 
 Les paramètres de connexion sont : 
 - Driver Class=org.h2.Driver
